@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ranjeetgupta114@gmail.com**
 
-- Adress **Vadodara, Gujarat
+- Adress **Vadodara, Gujarat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
