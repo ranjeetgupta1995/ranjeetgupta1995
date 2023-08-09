@@ -1,5 +1,3 @@
-[![MasterHead](https://tenor.com/view/coding-gif-25731151
-)]
 
 <h1 align="center">Hi 👋, I'm Ranjeet Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -12,7 +10,7 @@
 
 - 📫 How to reach me **ranjeetgupta114@gmail.com**
 
-- Adress **Vadodara, Gujarat**
+- Address **Vadodara, Gujarat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
