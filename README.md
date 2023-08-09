@@ -1,15 +1,18 @@
+[![MasterHead](https://tenor.com/view/coding-gif-25731151
+)]
+
 <h1 align="center">Hi 👋, I'm Ranjeet Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeetgupta1995&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetgupta1995" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, Redux, React-Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ranjeetgupta1995/ranjeet1995.github.io](https://github.com/ranjeetgupta1995/ranjeet1995.github.io)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **ranjeetgupta114@gmail.com**
+
+- Adress **Vadodara, Gujarat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
