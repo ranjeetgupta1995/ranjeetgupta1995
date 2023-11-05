@@ -10,6 +10,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **ranjeetgupta114@gmail.com**
+- Portfolio - https://ranjeetgupta1995.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
